@@ -1,4 +1,4 @@
-namespace Teamsmessage
+namespace TeamsMessage
 {
     public class WeatherForecast
     {
